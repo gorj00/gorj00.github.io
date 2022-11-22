@@ -594,6 +594,7 @@ footer ul.social li:last-of-type {padding: 0;}
         height: auto;
         text-align: center;
         width: auto;
+        max-width: 33vw;
     }
 
     /** ## Section => MEET OUR CREW ------------------------------------------*/
